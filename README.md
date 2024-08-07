@@ -1,18 +1,10 @@
-Certainly! Here's the entire README file content you can save into a single `README.md` file:
-
-```markdown
 # Morse Code Converter
 
 ## Overview
 
 This is a simple GUI application for converting text to Morse code and Morse code back to text. It uses Python's Tkinter library to provide a graphical user interface for easy interaction.
 
-## Features
 
-- Convert text to Morse code
-- Convert Morse code to text
-- Responsive GUI layout
-- Supports standard Morse code characters
 
 ## Installation
 
@@ -67,13 +59,3 @@ This is a simple GUI application for converting text to Morse code and Morse cod
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, please contact [your.email@example.com](mailto:your.email@example.com).
-```
-
-You can save this content in a file named `README.md` in the root directory of your project. This README provides clear instructions for setting up, using, and contributing to the project.
